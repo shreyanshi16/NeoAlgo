@@ -50,7 +50,7 @@ _add list here_
 - [Insertion Sort](sort/InsertionSort.cs)
 - [Quick Sort](sort/QuickSort.cs)
 - [Merge Sort](sort/MergeSort.cs)
-
+- [Selection Sort](sort/SelectionSort.cs)
 ## Machine Learning
 
 _add list here_
